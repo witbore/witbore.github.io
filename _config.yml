@@ -14,7 +14,6 @@ search: false
 search_full_content: false 
 
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 plugins: 
   - jekyll-feed
   - jekyll-seo-tag
